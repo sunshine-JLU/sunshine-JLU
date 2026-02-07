@@ -23,4 +23,4 @@ Information Engineering, Jilin University (JLU)
 - **Email**: [u3619679@connect.hku.hk](mailto:u3619679@connect.hku.hk)
 - **Wechat**: crh_8318
 ##
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunshine-JLU)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Contribution Graph](https://ghchart.rshah.org/sunshine-JLU)
