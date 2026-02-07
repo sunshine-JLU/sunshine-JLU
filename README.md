@@ -18,8 +18,9 @@ Computer Science, The University of Hong Kong (HKU)
 Bachelor@JLU
 Information Engineering, Jilin University (JLU)
 
-## 💌 联系方式
+## 💌 Contact Me
 
 - **Email**: [u3619679@connect.hku.hk](mailto:u3619679@connect.hku.hk)
+- **Wechat**: crh_8318
 ##
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunshine-JLU)](https://github.com/anuraghazra/github-readme-stats)
