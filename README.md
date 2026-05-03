@@ -8,7 +8,7 @@ AI/ML learner focusing on <strong>Large Language Models (LLMs)</strong>.<br />
 
 ## 🚀 Current Focus
 
-- **LLM Alignment**: RLHF, PPO, DPO & MLLM
+- **LLM Alignment**: OPD & MLLM
 
 🎓 Education
 
